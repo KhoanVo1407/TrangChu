@@ -25,6 +25,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Hoc/Ki1-nam4/Web/SubmitHome",
     "node.js.detected.package.eslint": "true",
@@ -58,6 +59,7 @@
       <updated>1726244403535</updated>
       <workItem from="1726244404616" duration="5000" />
       <workItem from="1726427035770" duration="508000" />
+      <workItem from="1726923238597" duration="196000" />
     </task>
     <servers />
   </component>
