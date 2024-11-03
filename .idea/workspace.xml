@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c576cad1-cf77-4961-a9af-3e4b4d365d4e" name="Changes" comment="" />
+    <list default="true" id="c576cad1-cf77-4961-a9af-3e4b4d365d4e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/JavaMail.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,10 +27,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Hoc/Ki1-nam4/Web/SubmitHome",
+    "last_opened_file_path": "D:/Hoc/Ki1-nam4/Web/SubmitHome/.idea",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -38,14 +42,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Hoc\Ki1-nam4\Web\SubmitHome\.idea" />
+      <recent name="D:\Hoc\Ki1-nam4\Web\SubmitHome" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Hoc\Ki1-nam4\Web\SubmitHome" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.20224.419" />
-        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-IU-242.20224.419" />
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
       </set>
     </attachedChunks>
   </component>
@@ -60,6 +68,8 @@
       <workItem from="1726244404616" duration="5000" />
       <workItem from="1726427035770" duration="508000" />
       <workItem from="1726923238597" duration="196000" />
+      <workItem from="1727535252054" duration="765000" />
+      <workItem from="1730644472766" duration="1415000" />
     </task>
     <servers />
   </component>
